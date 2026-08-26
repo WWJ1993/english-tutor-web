@@ -1,0 +1,29 @@
+{
+  "student": "Mera",
+  "lessons": [
+    {
+      "id": "lesson_20260825",
+      "date": "2026-08-25",
+      "lesson_no": 9,
+      "teacher": "Sonia J.",
+      "theme": "Family & Nature（家庭与自然）",
+      "duration": 25
+    },
+    {
+      "id": "lesson_20260811",
+      "date": "2026-08-11",
+      "lesson_no": 8,
+      "teacher": "Sonia J.",
+      "theme": "Daily Routines & Time（日常作息与时间）",
+      "duration": 25
+    },
+    {
+      "id": "lesson_20260728",
+      "date": "2026-07-28",
+      "lesson_no": 7,
+      "teacher": "Sonia J.",
+      "theme": "Food & Healthy Eating（食物与健康饮食）",
+      "duration": 25
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "date": "2026-08-11",
+    "teacher": "Sonia J.",
+    "student": "Mera",
+    "duration": 25,
+    "lesson_no": 8
+  },
+  "stats": {
+    "vocab_count": 10,
+    "pattern_count": 5,
+    "interaction_count": 55
+  },
+  "teaching": {
+    "theme": "Daily Routines & Time（日常作息与时间）",
+    "key_points": [
+      "一般现在时描述日常：I wake up / I eat breakfast / I go to school",
+      "时间表达：in the morning / in the afternoon / at night",
+      "频率副词：always / usually / sometimes / never",
+      "What time do you...? 句型"
+    ],
+    "timeline": [
+      { "time": "0:00–3:00", "title": "开场问候", "detail": "How are you? → What day is today? → What did you do yesterday?" },
+      { "time": "3:00–8:00", "title": "日常作息词汇", "detail": "wake up / brush teeth / eat breakfast / go to school / do homework / go to bed" },
+      { "time": "8:00–14:00", "title": "时间段表达", "detail": "in the morning / in the afternoon / in the evening / at night" },
+      { "time": "14:00–20:00", "title": "频率副词练习", "detail": "I always brush my teeth / I usually eat breakfast / I sometimes watch TV" },
+      { "time": "20:00–25:00", "title": "What time 句型 · 总结", "detail": "What time do you wake up? → I wake up at 7 o'clock." }
+    ]
+  },
+  "performance": {
+    "strengths": [
+      "日常作息词汇掌握好，能自主造句",
+      "时间段表达 in the morning/afternoon 准确",
+      "频率副词 always/usually 使用正确"
+    ],
+    "weaknesses": [
+      "第三人称单数 he/she + 动词-s 遗漏（He eat → He eats）",
+      "at night 与 in the night 混淆",
+      "What time 疑问句语序不稳定"
+    ],
+    "teacher_comment": "Mera 对日常作息话题非常熟悉，能主动扩展回答。第三人称单数是本节课的主要挑战。"
+  },
+  "mastery": {
+    "mastered": [
+      "日常作息词汇（wake up / brush teeth / eat breakfast）",
+      "in the morning / in the afternoon",
+      "频率副词 always / usually"
+    ],
+    "needs_review": [
+      "第三人称单数动词加 -s",
+      "at night（不是 in the night）",
+      "What time do you...? 语序"
+    ]
+  },
+  "dialogue": [
+    { "speaker": "teacher", "text": "What time do you wake up?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "I wake up at 7 o'clock.", "correction": null, "is_correct": true },
+    { "speaker": "teacher", "text": "What does your mom do in the morning?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "She cook breakfast.", "correction": "She cooks breakfast.", "is_correct": false },
+    { "speaker": "teacher", "text": "Do you always brush your teeth?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "Yes, I always brush my teeth in the morning.", "correction": null, "is_correct": true },
+    { "speaker": "teacher", "text": "What do you do at night?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "I read books in the night.", "correction": "I read books at night.", "is_correct": false }
+  ],
+  "exercises": {
+    "vocab_fill": [
+      { "question": "I _____ up at 7 o'clock every day.", "answer": "wake", "hint": "起床" },
+      { "question": "She _____ her teeth after breakfast.", "answer": "brushes", "hint": "第三人称单数" },
+      { "question": "We eat dinner _____ the evening.", "answer": "in", "hint": "时间介词" }
+    ],
+    "sentence_making": [
+      { "prompt": "用 always 描述你每天做的事", "example_answer": "I always brush my teeth in the morning." },
+      { "prompt": "用第三人称描述：mom / cook / breakfast / morning", "example_answer": "My mom cooks breakfast in the morning." }
+    ],
+    "qa_practice": [
+      { "question": "What time do you go to bed?", "answer": "I go to bed at 9 o'clock at night." },
+      { "question": "Do you always do your homework?", "answer": "Yes, I always do my homework in the afternoon." }
+    ]
+  }
+}

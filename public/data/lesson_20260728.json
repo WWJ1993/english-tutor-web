@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "date": "2026-07-28",
+    "teacher": "Sonia J.",
+    "student": "Mera",
+    "duration": 25,
+    "lesson_no": 7
+  },
+  "stats": {
+    "vocab_count": 12,
+    "pattern_count": 6,
+    "interaction_count": 48
+  },
+  "teaching": {
+    "theme": "Food & Healthy Eating（食物与健康饮食）",
+    "key_points": [
+      "食物分类：fruits / vegetables / meat / dairy",
+      "喜好表达：I like / I don't like / My favorite is",
+      "健康表达：good for you / bad for you",
+      "How many / How much 疑问句"
+    ],
+    "timeline": [
+      { "time": "0:00–4:00", "title": "开场 · 复习上节课", "detail": "What did you eat for breakfast today?" },
+      { "time": "4:00–10:00", "title": "食物词汇分类", "detail": "apple/banana/grape（fruits）/ carrot/broccoli（vegetables）/ chicken/fish（meat）/ milk/cheese（dairy）" },
+      { "time": "10:00–16:00", "title": "喜好与健康", "detail": "Vegetables are good for you / Candy is bad for you / My favorite fruit is mango" },
+      { "time": "16:00–22:00", "title": "How many / How much", "detail": "How many apples do you eat? → I eat two apples a day" },
+      { "time": "22:00–25:00", "title": "总结", "detail": "What is your favorite food? Why?" }
+    ]
+  },
+  "performance": {
+    "strengths": [
+      "食物词汇丰富，能自主列举",
+      "喜好表达 I like / My favorite is 使用流畅",
+      "good for you / bad for you 概念清晰"
+    ],
+    "weaknesses": [
+      "How many vs How much 区分不清（可数/不可数）",
+      "vegetables 发音不准确",
+      "回答 Why 时缺少 because"
+    ],
+    "teacher_comment": "Mera 对食物话题很感兴趣，课堂参与度高。how many/much 的区分是下阶段重点。"
+  },
+  "mastery": {
+    "mastered": [
+      "常见食物词汇（apple / banana / carrot / chicken / milk）",
+      "I like / I don't like",
+      "good for you / bad for you"
+    ],
+    "needs_review": [
+      "How many（可数）vs How much（不可数）",
+      "because 回答 why 问题",
+      "dairy 类词汇（cheese / yogurt）"
+    ]
+  },
+  "dialogue": [
+    { "speaker": "teacher", "text": "What did you eat for breakfast?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "I ate rice and eggs.", "correction": null, "is_correct": true },
+    { "speaker": "teacher", "text": "How many eggs did you eat?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "I eat two eggs.", "correction": "I ate two eggs.（过去时）", "is_correct": false },
+    { "speaker": "teacher", "text": "How much milk do you drink every day?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "How many milk? One cup.", "correction": "How much milk — milk is uncountable.", "is_correct": false },
+    { "speaker": "teacher", "text": "Why do you like mangoes?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "It is sweet.", "correction": "I like mangoes because they are sweet.", "is_correct": false }
+  ],
+  "exercises": {
+    "vocab_fill": [
+      { "question": "Carrots and broccoli are _____.", "answer": "vegetables", "hint": "蔬菜类" },
+      { "question": "Milk and cheese are _____.", "answer": "dairy", "hint": "乳制品" },
+      { "question": "Candy is _____ for you.", "answer": "bad", "hint": "对健康不好" }
+    ],
+    "sentence_making": [
+      { "prompt": "用 because 说明为什么喜欢某种食物", "example_answer": "I like apples because they are sweet and good for me." },
+      { "prompt": "How many 造句：oranges / eat / day", "example_answer": "How many oranges do you eat a day?" }
+    ],
+    "qa_practice": [
+      { "question": "What is your favorite fruit?", "answer": "My favorite fruit is mango because it is sweet." },
+      { "question": "Are vegetables good for you?", "answer": "Yes, vegetables are good for me." },
+      { "question": "How many apples do you eat a week?", "answer": "I eat three apples a week." }
+    ]
+  }
+}

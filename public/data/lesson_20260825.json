@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "date": "2026-08-25",
+    "teacher": "Sonia J.",
+    "student": "Mera",
+    "duration": 25,
+    "lesson_no": 9
+  },
+  "stats": {
+    "vocab_count": 8,
+    "pattern_count": 6,
+    "interaction_count": 60
+  },
+  "teaching": {
+    "theme": "Family & Nature（家庭与自然）",
+    "key_points": [
+      "现在进行时：They are playing / The birds are flying",
+      "情态动词 can/can't",
+      "家庭成员：children / adults / parents",
+      "过去时回顾：I ran / I danced / I had fun",
+      "原因从句 because（首次出现）"
+    ],
+    "timeline": [
+      { "time": "0:00–4:00", "title": "开场问候 · 过去时回顾", "detail": "How are you? → I ran at the park / I danced at home / I had fun today" },
+      { "time": "4:00–6:00", "title": "新单元导入 · 看图描述", "detail": "We begin a new unit today。看图：I see a family and a ball / They are in the park" },
+      { "time": "6:00–8:00", "title": "看图提问 · 现在进行时", "detail": "What game are they playing? → They are playing football（先答 They play，老师引导补充 are）" },
+      { "time": "8:00–10:00", "title": "运动分类 · 喜好表达", "detail": "I like to play basketball / I play basketball in the park" },
+      { "time": "10:00–12:00", "title": "家庭概念 · children/adults/parents", "detail": "The boy and girl are children → mom and dad are adults → 统称 parents" },
+      { "time": "12:00–15:00", "title": "鸟类 · wings to fly", "detail": "Birds use wings to fly / They fly in the sky / Dogs can't fly" },
+      { "time": "15:00–17:00", "title": "蜜蜂谜语 · bee", "detail": "I don't like to eat honey because it is too sweet（首次完整使用 because）" },
+      { "time": "17:00–18:00", "title": "能力表达 · can/can't", "detail": "I can draw / walk / skate / run / jump" },
+      { "time": "18:00–20:00", "title": "天空与云 · 颜色", "detail": "The sky is blue / The clouds are white / clouds are black（雨天）" },
+      { "time": "20:00–22:00", "title": "水的用途", "detail": "drink / swim / take a shower / wash our face and hands" },
+      { "time": "22:00–24:00", "title": "游泳场景 · goggles", "detail": "This boy is swimming / swimming pool / goggles（泳镜）/ I am scared of water" },
+      { "time": "24:00–25:00", "title": "公园跑步 · 总结告别", "detail": "The boy and girl are running / I run with my friends" }
+    ]
+  },
+  "performance": {
+    "strengths": [
+      "过去时掌握优秀：I ran / I danced / I had fun 回答流畅",
+      "现在进行时大幅进步，能在引导下补充 are",
+      "首次完整使用 because 从句：because it is too sweet",
+      "水的用途四项全部答出"
+    ],
+    "weaknesses": [
+      "can/can't 否定句不稳定，需要巩固",
+      "运动词汇（volleyball/tennis/badminton）未完全掌握",
+      "复数主语忘记 are，单独说 They play 而非 They are playing",
+      "游泳场所混淆 sea 与 swimming pool"
+    ],
+    "teacher_comment": "Mera 本节课表现活跃，互动积极，语言输出量大。老师善用追问技巧引导更完整表达，对错误给予及时温和纠正。"
+  },
+  "mastery": {
+    "mastered": [
+      "过去时（ran / danced / had fun）",
+      "家庭成员词汇（dad / mom / brother / sister / parents）",
+      "can/can't 基础句型",
+      "颜色形容词（blue / white / black）",
+      "water 用途词汇（drink / swim / shower）"
+    ],
+    "needs_review": [
+      "现在进行时 are + V-ing（容易漏掉 are）",
+      "运动词汇（volleyball / tennis / badminton）",
+      "swimming pool vs sea",
+      "because 从句（首次出现，需巩固）",
+      "复数名词 clouds（容易写成单数）"
+    ]
+  },
+  "dialogue": [
+    { "speaker": "teacher", "text": "How are you today?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "I am fine, thank you.", "correction": null, "is_correct": true },
+    { "speaker": "teacher", "text": "Did you have a good day? What did you do today?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "I ran today.", "correction": null, "is_correct": true },
+    { "speaker": "teacher", "text": "Where did you run?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "I ran at the park.", "correction": null, "is_correct": true },
+    { "speaker": "teacher", "text": "Who did you go with?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "I ran with my mom at the park.", "correction": null, "is_correct": true },
+    { "speaker": "teacher", "text": "What game are they playing?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "They play football.", "correction": "They are playing football.", "is_correct": false },
+    { "speaker": "teacher", "text": "What sports do you like to play?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "I like to play ghost.", "correction": "That's a game, not a sport. I like to play basketball.", "is_correct": false },
+    { "speaker": "teacher", "text": "What do birds use to fly?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "Birds use wings to fly.", "correction": null, "is_correct": true },
+    { "speaker": "teacher", "text": "Do you like to eat honey?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "No, I don't like to eat honey because it is too sweet.", "correction": null, "is_correct": true },
+    { "speaker": "teacher", "text": "What color are the clouds when it rains?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "Cloud is black.", "correction": "The clouds are black.", "is_correct": false },
+    { "speaker": "teacher", "text": "Where is the boy swimming?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "He is swimming in the sea.", "correction": "He is swimming in the swimming pool.", "is_correct": false },
+    { "speaker": "teacher", "text": "What are the boy and girl doing?", "correction": null, "is_correct": null },
+    { "speaker": "student", "text": "We are run.", "correction": "The boy and girl are running.", "is_correct": false }
+  ],
+  "exercises": {
+    "vocab_fill": [
+      { "question": "Birds use _____ to fly.", "answer": "wings", "hint": "鸟的翅膀" },
+      { "question": "Mom and dad are called _____.", "answer": "parents", "hint": "父母的统称" },
+      { "question": "We wear _____ when we swim.", "answer": "goggles", "hint": "保护眼睛的装备" },
+      { "question": "The boy is swimming in the swimming _____.", "answer": "pool", "hint": "游泳的地方" },
+      { "question": "Bees can make _____.", "answer": "honey", "hint": "甜甜的食物" }
+    ],
+    "sentence_making": [
+      { "prompt": "用现在进行时描述：birds / fly / sky", "example_answer": "The birds are flying in the sky." },
+      { "prompt": "用 can/can't 造句：dogs / fly", "example_answer": "Dogs can't fly." },
+      { "prompt": "用 because 说明原因：not like swimming / scared of water", "example_answer": "I don't like swimming because I am scared of water." },
+      { "prompt": "描述水的一种用途", "example_answer": "We use water to drink / take a shower / wash our hands." }
+    ],
+    "qa_practice": [
+      { "question": "What do birds use to fly?", "answer": "Birds use wings to fly." },
+      { "question": "Can dogs fly?", "answer": "No, dogs can't fly." },
+      { "question": "What color is the sky?", "answer": "The sky is blue." },
+      { "question": "What can you do with water?", "answer": "We can drink water, swim, take a shower and wash our face and hands." },
+      { "question": "Who are the adults in a family?", "answer": "Mom and dad are the adults. They are also called parents." }
+    ]
+  }
+}
